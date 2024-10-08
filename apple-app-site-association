@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "EYUZZ9KM5B.io.blackthorn.attendee.passport",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
