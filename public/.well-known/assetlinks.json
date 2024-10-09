@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.blackthorn.attendee.passport",
+      "sha256_cert_fingerprints": [
+        "23:C3:71:45:7E:78:BD:FE:4A:E4:80:75:AE:9B:53:35:E2:D5:82:45:0F:B3:99:C7:34:7B:0B:45:2B:D3:5C:B0"
+      ]
+    }
+  }
+]
